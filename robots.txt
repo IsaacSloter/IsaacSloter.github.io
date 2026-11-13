@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isaacsloter.github.io/sitemap.xml
