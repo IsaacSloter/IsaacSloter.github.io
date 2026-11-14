@@ -20,6 +20,14 @@ The platformer résumé entry supports AI behavior-tree work, floating movement,
 
 The education entry uses the supplied wording: **Associate of Applied Science in Game Development (A.A.S.), Full Sail University, July 2026**. The two game entries remain selected project experience rather than claims of paid employment. The HTML résumé is the primary public résumé, and its Print / save PDF action prints that page. The uploaded PDF is a source document, not a published download. The established public Outlook address remains the website contact.
 
+## Editing Isaac's project descriptions
+
+Use Isaac's original project descriptions and retrospectives as the starting draft. Preserve his first-person choices, concrete explanations, and candid account of what he learned. Make focused corrections to grammar, repetition, and organization while keeping his wording where it is clear.
+
+Prefer plain section headings and specific actions over slogans or abstract summaries. Retain the reasons he gives for decisions, such as choosing to animate doors and pressure plates. Do not add experiences, feelings, accomplishments, or measured results that he has not supplied. Describe intended player experiences as design goals unless actual feedback supports a result.
+
+The homepage project summaries and both case studies follow this approach. Continue to apply it when adding future projects.
+
 ## Project images
 
 These PNG files were copied from the existing portfolio's public Wix media URLs. The source image bytes were retained without editing or generation. Layout cropping, where used, is controlled by the webpage styling.
