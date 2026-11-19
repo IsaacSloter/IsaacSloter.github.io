@@ -191,3 +191,21 @@ h2{font-size:38px;line-height:1.15;letter-spacing:-1.5px;margin:0 0 22px;font-we
 @media print{@page{margin:14mm}body{background:white;color:#111;font-size:10pt}.site-header,.site-footer,.contact-band,.resume-toolbar,.skip-link{display:none!important}.wrap{width:100%;max-width:none}.page-hero{padding:0}.resume-sheet{border:0;padding:0;margin:0;max-width:none;background:white}.resume-heading h1{font-size:28pt}.resume-heading .role{font-size:13pt}.resume-heading{padding-bottom:15px;margin-bottom:20px}.resume-section{margin-bottom:20px}.resume-section h2{font-size:10pt;color:#111}.resume-section p,.resume-section li{font-size:10pt;line-height:1.5;color:#222}.resume-project h3{font-size:12pt}.resume-skills{grid-template-columns:1fr 1fr}.resume-project{break-inside:avoid;margin-top:18px}.resume-contact{font-size:9pt}a{color:inherit;text-decoration:none}.image-dialog{display:none!important}}
 
 .icon{display:inline-block;width:18px;height:18px;vertical-align:middle;flex-shrink:0}.footer-links .icon{width:12px;height:12px;margin-left:3px}.arrow .icon{display:block}
+
+/* Wizard's Tower case study and concept gallery */
+.wizard-feature-actions{display:flex;flex-wrap:wrap;gap:13px;margin:-17px 0 55px}
+.wizard-inline-media{margin:22px 0 25px}
+.wizard-inline-media img{display:block;max-width:100%;width:620px;height:auto;border-radius:5px}
+.wizard-inline-media figcaption{font-size:12px;color:var(--muted);margin-top:12px;line-height:1.6}
+.concept-hero{max-width:950px}
+.concept-note{margin:0 0 42px}
+.concept-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:38px 32px;padding:0 0 70px}
+.concept-item{margin:0;min-width:0;background:var(--surface);border:1px solid var(--line);border-radius:5px;overflow:hidden}
+.concept-item .image-zoom{background:#243c32}
+.concept-item img{display:block;width:100%;height:auto;max-height:490px;object-fit:contain}
+.concept-item figcaption{padding:20px 24px 25px}
+.concept-number{font-family:Consolas,"Liberation Mono",monospace;font-size:10px;letter-spacing:1px;color:var(--green)}
+.concept-item h2{font-size:24px;letter-spacing:-.6px;margin:8px 0 11px}
+.concept-item p{font-size:14px;line-height:1.65;color:var(--muted);margin:0}
+.wizard-back{border-top:1px solid var(--line);padding:28px 0 65px;display:flex;align-items:center;gap:25px;flex-wrap:wrap}
+@media(max-width:760px){.concept-grid{grid-template-columns:1fr;gap:24px;padding-bottom:35px}.concept-item img{max-height:450px}.concept-item figcaption{padding:18px}.wizard-feature-actions{margin:0 0 38px}}
